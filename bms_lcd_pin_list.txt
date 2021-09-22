@@ -1,0 +1,17 @@
+BMS Display Pinouts
+
+14  PA4     SPI1_NSS LCD
+15  PA5     SPI1_SCK LCD
+16  PA6     SPI1_MISO LCD (N.C.)
+17  PA7     SPI1_MOSI LCD
+42  PB6     LCD Backlight Control
+12  PA2     USART2_TX to BMS
+13  PA3     USART2_RX from BMS
+19  PB1     Bottom Button (active low, normally high)
+28  PB15    Top Button, active low, starts power supply on press.
+27  PB15    Power supply latch, pull low to latch power on.
+LCD is ST7920
+Driver available at https://github.com/cbm80amiga/ST7920_SPI
+
+SWDIO Yellow
+SWCLK White
