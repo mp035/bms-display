@@ -1,7 +1,7 @@
 # bms-display
 Alternate firmware for ANT-BMS display units
 
-This repository is my attempt at re-programming my ANT-BMS display unit which is on an electric motorcycle.  My goals are 
+This repository is my attempt at re-programming my ANT-BMS display unit which I have installed on an electric motorcycle.  My goals are
 1. Have the display turn on automatically when power is applied (currently you have to push one of the buttons to start it)
 1. Have the default display be something similar to the Volts/Amps page which shows battery voltage and current in large text (instead of the ugly and useless speedometer page).
 
